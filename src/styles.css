@@ -19,7 +19,7 @@ h3 {
 
 body {
   margin: 100px 50px;
-  background-image: url(../src/partlycloudy.jpg);
+  background-image: url("partlycloudy.jpg");
 }
 
 .container {
